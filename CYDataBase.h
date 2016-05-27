@@ -16,4 +16,10 @@
 
 -(NSMutableArray *)getAllMovies;
 
+-(void)get:(NSString *)str;
+-(void)get2:(NSString *)str;
+-(void)get3:(NSString *)str;
+-(void)get4:(NSString *)str;
+
+
 @end
